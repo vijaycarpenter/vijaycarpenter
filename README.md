@@ -79,28 +79,11 @@ Passionate about building scalable applications, custom CMS solutions, and AI-po
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaycarpenter&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaycarpenter&layout=compact&theme=tokyonight)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/vijaycarpenter/vijaycarpenter/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🌐 Connect With Me
 
 - 💼 GitHub: https://github.com/vijaycarpenter
-- 🔗 LinkedIn: *(Add your LinkedIn profile)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/vijay-carpenter-082b1969/ 
 
 ---
 
